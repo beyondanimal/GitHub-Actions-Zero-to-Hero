@@ -1,5 +1,5 @@
 # app.py
-# This is not a test commit but to check the pipeline
+# This is the changed comment
 def add(a, b):
     return a + b
 
