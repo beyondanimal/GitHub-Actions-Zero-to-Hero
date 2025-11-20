@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit
+# This is not a test commit but to check the pipeline
 def add(a, b):
     return a + b
 
